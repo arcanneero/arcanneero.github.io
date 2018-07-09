@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "casper"
   },
   "urls": {
     "site": "https://arcanneero.github.io",
     "hubpress": "https://arcanneero.github.io",
-    "theme": "//arcanneero.github.io/themes/casper",
+    "theme": "//arcanneero.github.io/themes/ghostium",
     "images": "https://arcanneero.github.io/images"
   },
   "site": {
