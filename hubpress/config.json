@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "roon"
+    "name": "saga"
   },
   "urls": {
     "site": "https://arcanneero.github.io",
     "hubpress": "https://arcanneero.github.io",
-    "theme": "//arcanneero.github.io/themes/casper",
+    "theme": "//arcanneero.github.io/themes/roon",
     "images": "https://arcanneero.github.io/images"
   },
   "site": {
