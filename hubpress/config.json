@@ -2,9 +2,38 @@
   "meta": {
     "username": "arcanneero",
     "repositoryName": "arcanneero.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "Casper"
+    "name": "ghostium"
+  },
+  "urls": {
+    "site": "https://arcanneero.github.io",
+    "hubpress": "https://arcanneero.github.io",
+    "theme": "//arcanneero.github.io/themes/casper",
+    "images": "https://arcanneero.github.io/images"
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
